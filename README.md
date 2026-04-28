@@ -28,8 +28,3 @@ The data flows through a four-stage pipeline to ensure transparency:
 3. **Interpretation Layer:** Gemini AI converts raw stats into ethical memos.
 4. **Output Dashboard:** Real-time visualization for HR decision-makers.
 
-## 📦 Local Setup
-1. **Clone the Repo:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)Mann345/BruteForce4O4-FairHire.git
-   cd BruteForce4O4-FairHire
