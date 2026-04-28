@@ -31,5 +31,5 @@ The data flows through a four-stage pipeline to ensure transparency:
 ## 📦 Local Setup
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[Your-Username]/BruteForce4O4-FairHire.git
+   git clone [https://github.com/](https://github.com/)Mann345/BruteForce4O4-FairHire.git
    cd BruteForce4O4-FairHire
